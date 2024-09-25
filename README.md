@@ -1,2 +1,2 @@
 # myprojects
-Projects worked
+Projects worked with Javascript
